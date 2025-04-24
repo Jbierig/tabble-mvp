@@ -4,3 +4,4 @@ import TabblePreview from "./TabbleMenu";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<TabblePreview />);
+export default TabblePreview;
