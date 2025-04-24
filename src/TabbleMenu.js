@@ -6,6 +6,7 @@ import React, { useState, useEffect } from "react";
 import {
   Home, ShoppingCart, PlusCircle, Settings, Trash2, MoreVertical
 } from "lucide-react";
+export default TabblePreview;
 
 
 // ... rest of the full component follows, including:
